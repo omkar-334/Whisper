@@ -1,0 +1,16 @@
+numba
+numpy
+torch
+tqdm
+more-itertools
+openai-whisper
+ffmpeg
+tiktoken==0.3.3
+tk # for whisper gui
+customtkinter #for whisper gui
+simphile #for checking transcription accuracy
+spacy #for checking transcription accuracy
+openai #for accessing openAI API
+transformers #for whisper_gradio
+gradio #for whisper_gradio
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
