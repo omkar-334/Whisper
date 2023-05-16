@@ -2,6 +2,7 @@ numba
 numpy
 torch
 tqdm
+setuptools-rust
 more-itertools
 openai-whisper
 ffmpeg
