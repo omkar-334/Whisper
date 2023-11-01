@@ -1,0 +1,6 @@
+https://github.com/openai/whisper  
+https://github.com/savbell/whisper-writer  
+https://github.com/Blair-Johnson/batch-whisper  
+https://github.com/MrEdwards007/WhisperTaskAcceleration  
+https://github.com/huggingface/audio-transformers-course  
+https://github.com/hayabhay/frogbase  
